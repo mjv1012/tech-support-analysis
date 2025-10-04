@@ -27,3 +27,8 @@ Then start describing your problem by typing in the terminal window.
 
 The purpose of this project is to demonstrate and study library classes, such 
 as ArrayList, HashMap, HashSet, and Random.
+
+
+Q43: If the specified key isn't already linked with a value, then it will add the key with the given value.
+Q46: It is accurate, it shows the claases and methods, it's not always complete, method, class names, parameters, return types are usually the parts that are important.
+Q47: @param, @version, @author, @return
